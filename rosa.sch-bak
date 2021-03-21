@@ -2766,11 +2766,11 @@ Text GLabel 13950 4100 2    50   Input ~ 0
 Col3
 Text GLabel 13950 4000 2    50   Input ~ 0
 Col2
-Text GLabel 13950 3900 2    50   Input ~ 0
+Text GLabel 13950 2900 2    50   Input ~ 0
 Col1
 Text GLabel 13950 2700 2    50   Input ~ 0
 Col0
-Text GLabel 13950 3000 2    50   Input ~ 0
+Text GLabel 13950 3900 2    50   Input ~ 0
 Row2
 Text GLabel 13950 1600 2    50   Input ~ 0
 Row4
@@ -2780,4 +2780,15 @@ Text GLabel 13950 2800 2    50   Input ~ 0
 Row0
 Text GLabel 13950 1500 2    50   Input ~ 0
 Row3
+$Comp
+L logos:O-LOGO LOGO1
+U 1 1 6058DB7E
+P 13700 11950
+F 0 "LOGO1" H 13874 11996 50  0000 L CNN
+F 1 "O-LOGO" H 13874 11905 50  0000 L CNN
+F 2 "board_logos:MY-LOGO-SVG" H 13700 11950 50  0001 C CNN
+F 3 "" H 13700 11950 50  0001 C CNN
+	1    13700 11950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

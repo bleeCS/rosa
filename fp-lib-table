@@ -2,4 +2,5 @@
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name footprints-and-logos)(type KiCad)(uri ${KIPRJMOD}/footprints-and-logos.pretty)(options "")(descr ""))
+  (lib (name board_logos)(type KiCad)(uri "D:/Brandon/KEYBOARD DESIGN/board_logos.pretty")(options "")(descr ""))
 )
